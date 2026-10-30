@@ -8,7 +8,7 @@ I'm building **[Kiori](https://kiori.io)**: every character gets a mind of their
 
 [![kiori.io](https://img.shields.io/badge/kiori.io-2b4acb?style=flat)](https://kiori.io)
 [![Docs](https://img.shields.io/badge/docs-2b4acb?style=flat)](https://kiori.io/docs)
-[![Email](https://img.shields.io/badge/aras%40kiori.io-2b4acb?style=flat)](mailto:aras@kiori.io)
+[![Email](https://img.shields.io/badge/arasaktas%40kiori.io-2b4acb?style=flat)](mailto:arasaktas@kiori.io)
 
 </div>
 
