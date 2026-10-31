@@ -18,4 +18,4 @@ I'm building **[Kiori](https://kiori.io)**: every character gets a mind of their
 - 🔒 One Node process, zero dependencies, model keys sealed, nothing kept
 - 🌸 In private beta, free while it lasts: [ask for access](https://kiori.io/#access)
 
-<sub>Kiori's code is coming to GitHub soon.</sub>
+<sub>Kiori's code: [kiori-ai/kiori](https://github.com/kiori-ai/kiori) · `npm install kiori` · `pip install kiori-ai`</sub>
